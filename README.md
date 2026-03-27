@@ -3,8 +3,11 @@ Complete Task Portfolio (Task 1 – Task 5)
 The internship focused on building strong fundamentals, hands-on security testing, exploitation techniques, and real-world cybersecurity practices.
 
 📌 Internship Overview
+
 🏢 Organization: ApexPlanet Software Pvt. Ltd.
+
 📅 Duration: 60 Days
+
 🎯 Focus: Ethical Hacking, Penetration Testing & System Security
 
 📂 Tasks Overview
@@ -30,13 +33,23 @@ Learn exploitation techniques and system defense strategies.
 Apply all learned skills in a real-world simulation project.
 
 🧰 Tools & Technologies Used
+
 Kali Linux
+
 Metasploitable2
+
 DVWA
+
 Nmap
+
 Wireshark
+
 Burp Suite
+
 Metasploit
+
 Hydra
+
 John the Ripper
+
 OpenVAS / Nessus
